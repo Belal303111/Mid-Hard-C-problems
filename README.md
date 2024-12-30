@@ -1,1 +1,2 @@
-# Mid-Hard-C-problems
+# Mid-Hard-C++-problems
+To sole problems from different web sites 
